@@ -4,3 +4,7 @@ cmake_install.*
 Makefile
 Tutorial
 TutorialConfig.h
+CMakeFiles
+*.a
+install_manifest.txt
+
