@@ -6,5 +6,7 @@ Tutorial
 TutorialConfig.h
 CMakeFiles
 *.a
+*.cmake
+Testing/**
 install_manifest.txt
 
